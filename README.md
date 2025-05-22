@@ -9,5 +9,5 @@
 
 -> After code review session
 * add the filled checklists to the corresponding folder. Name that file with the names of the reviewers.
-
+* change the README.md of the reviewee is something worth of noting happened 
  
