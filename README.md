@@ -3,6 +3,7 @@
 -> Before code review session
 * For each code review, check if the reviewee has a folder with their name
 * Inside their folder, there should be a folder with the date (e.g. 24-04-2025) with a README.md file (wo the readme, the folder will not be pushed)
+* This should be done in advance by the reviewee, but if not, please take the initiative to do it.
 
 -> During code review session:
 * Use the checklist template: https://docs.google.com/document/d/1CF3mW0nOx9XwbW6U0hPKfPh2Y8HfEhZm7Gs9cbkxHTw/edit?usp=sharing
