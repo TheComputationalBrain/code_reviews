@@ -8,6 +8,6 @@
 * Use the checklist template: https://docs.google.com/document/d/1CF3mW0nOx9XwbW6U0hPKfPh2Y8HfEhZm7Gs9cbkxHTw/edit?usp=sharing
 
 -> After code review session
-* add the filled checklists to the corresponding folder. Name that file with the names of the reviewers.
+* add the filled checklists in PDF format to the corresponding folder. Name that file with the names of the reviewers.
 * change the README.md of the reviewee is something worth of noting happened 
  
